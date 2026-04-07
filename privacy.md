@@ -79,8 +79,8 @@
 | SDK/服务名称 | 所属公司 | 收集的信息类型 | 用途 | 隐私政策链接 |
 |-------------|----------|----------------|------|----------------|
 | Apple SIWA SDK | Apple | 用户标识符、姓名、邮箱 | Apple登录 | https://www.apple.com/privacy/ |
-| 千问（通义千问）API | 阿里巴巴/上海智信普惠 | 上传的图片、设备信息 | 图片识别与解析 | https://terms.alicdn.com/legal-agreement/terms/privacy_policy_full/20231011201849846/20231011201849846.html |
-| 智谱AI（智谱清言）API | 北京智谱华章 | 上传的图片、设备信息 | 图片识别与解析 | https://chatglm.cn/legal/privacyPolicySingle |
+| 千问（通义千问）API | 阿里巴巴/上海智信普惠 | 上传的图片 | 图片识别与解析 | https://terms.alicdn.com/legal-agreement/terms/privacy_policy_full/20231011201849846/20231011201849846.html |
+| 智谱AI（智谱清言）API | 北京智谱华章 | 上传的图片 | 图片识别与解析 | https://chatglm.cn/legal/privacyPolicySingle |
 
 **关于设备标识符的特别说明：**
 
